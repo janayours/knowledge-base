@@ -1,10 +1,10 @@
-.cars-container .card{
-    /* min-width: 200px; */
-    max-width: 1000px;
-    margin:10px;
+.cars-container .card {
+  /* min-width: 200px; */
+  /* max-width: 1000px; */
+  /* margin:10px; */
 }
 
-.cars-container .card p{
-font-size: 1.5rem;
-color:blueviolet;
+.cars-container .card p {
+  font-size: 1.5rem;
+  color: blueviolet;
 }
