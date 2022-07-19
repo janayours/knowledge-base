@@ -17,8 +17,8 @@ function CarsX() {
         <TabPanel>
           <div className="cars-container flex flex-wrap justify-evenly">
             <div className="card">
-              <p>Knowledge base</p>
-              <img src="https://blog.invgate.com/hubfs/Why-is-a-Knowledge-Base-Important-blog-post.jpg" />
+              {/* <p>Knowledge base</p> */}
+              <img src="https://ps.w.org/echo-knowledge-base/assets/screenshot-14.jpg" />
             </div>
             
           </div>
@@ -26,8 +26,8 @@ function CarsX() {
         <TabPanel>
           <div className="cars-container flex flex-wrap justify-evenly">
             <div className="card">
-              <p>Articles</p>
-              <img src="https://agentestudio.com/uploads/post/image/95/main_beautiful_blog_design.png" />
+              {/* <p>Articles</p> */}
+              <img src="https://www.designwall.com/wp-content/uploads/2016/06/dw-knowledge-base1.png" />
             </div>
             
           </div>

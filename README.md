@@ -1,5 +1,6 @@
 # agent-x
 
-# how to run in local: 
-# Run below command for local setup
+# Running local set up
+npm install
 npm run start:local
+
